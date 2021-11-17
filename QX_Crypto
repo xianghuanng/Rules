@@ -1,0 +1,16 @@
+host-suffix, fxhapp.com, Crypto
+
+# pionex
+host-suffix, pionex.com, Crypto
+host-suffix, mixpanel.com, Crypto
+host-suffix, thepinet.com, Crypto
+
+host-suffix, ftx.cool, direct
+
+# Binance
+host-suffix, binance.com, Crypto
+host-suffix, bnbstatic.com, Crypto
+host-suffix, bntrace.com, Crypto
+host-suffix, hanqiweb.co, Crypto
+host-suffix, bnappzh.com, Crypto
+host-keyword, binance, Crypto
