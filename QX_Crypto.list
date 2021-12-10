@@ -19,3 +19,10 @@ host-suffix, bnappzh.com, Crypto
 host-keyword, binance, Crypto
 host-suffix, nftstatic.com, Crypto
 host-suffix, siftscience.com, Crypto
+
+# OKEX
+host-suffix, amplitude.com, OKEx
+host-suffix, cloudflare-dns.com, OKEx
+host-suffix, okex.com, OKEx
+host-keyword, okex, OKEx
+
