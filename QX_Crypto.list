@@ -21,8 +21,8 @@ host-suffix, nftstatic.com, Crypto
 host-suffix, siftscience.com, Crypto
 
 # OKEX
-host-suffix, amplitude.com, OKEx
-host-suffix, cloudflare-dns.com, OKEx
-host-suffix, okex.com, OKEx
-host-keyword, okex, OKEx
+host-suffix, amplitude.com, Crypto
+host-suffix, cloudflare-dns.com, Crypto
+host-suffix, okex.com, Crypto
+host-keyword, okex, Crypto
 
