@@ -26,3 +26,5 @@ host-suffix, cloudflare-dns.com, Crypto
 host-suffix, okex.com, Crypto
 host-keyword, okex, Crypto
 
+# Aicoin
+host-keyword, aicoin, Crypto
