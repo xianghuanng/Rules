@@ -27,4 +27,5 @@ host-suffix, okex.com, Crypto
 host-keyword, okex, Crypto
 
 # Aicoin
-host-keyword, aicoin, Crypto
+;host-keyword, aicoin, Crypto
+host-suffix, apipc.aicoin.net.cn, Crypto # 开启授权功能
