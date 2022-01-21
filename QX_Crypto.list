@@ -28,6 +28,7 @@ host-keyword, okex, Crypto
 
 host-suffix, okx.com, Crypto
 host-suffix, okx.com.edgesuite.net, Crypto
+host-suffix, okx.com.cdn.cloudflare.net, Crypto
 
 # Aicoin 开启PC端授权功能
 host-suffix, apipc.aicoin.net.cn, Crypto
