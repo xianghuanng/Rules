@@ -9,6 +9,7 @@ host-suffix, thepinet.com, Crypto
 
 # ftx
 host-suffix, ftx.cool, direct
+host-suffix, ftx.com, Crypto
 
 # Binance
 host-suffix, binance.com, Crypto
