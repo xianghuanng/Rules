@@ -8,7 +8,7 @@ payload:
 	- DOMAIN-SUFFIX, thepinet.com
 
 	# ftx
-	- DOMAIN-SUFFIX, ftx.cool, direct
+	- DOMAIN-SUFFIX, ftx.cool
 	- DOMAIN-SUFFIX, ftx.com
 
 	# Binance
