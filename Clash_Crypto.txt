@@ -24,7 +24,7 @@ payload:
 
   # OKEX
   - DOMAIN-SUFFIX, amplitude.com
-  - DOMAIN-SUFFIX, cloudflare  -dns.com
+  - DOMAIN-SUFFIX, cloudflare-dns.com
   - DOMAIN-SUFFIX, okex.com
   - DOMAIN-KEYWORD, okex
 
