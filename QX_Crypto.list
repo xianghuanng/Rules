@@ -13,6 +13,7 @@ host-suffix, ftx.com, Crypto
 
 # Binance
 host-suffix, binance.com, Crypto
+host-suffix, binance.me, Crypto
 host-suffix, bnbstatic.com, Crypto
 host-suffix, bntrace.com, Crypto
 host-suffix, hanqiweb.co, Crypto
