@@ -29,6 +29,7 @@ host-suffix, cloudflare-dns.com, Crypto
 host-suffix, okex.com, Crypto
 host-keyword, okex, Crypto
 
+host-keyword, okx-dns, Crypto
 host-suffix, okx.com, Crypto
 host-suffix, okx.com.edgesuite.net, Crypto
 host-suffix, okx.com.cdn.cloudflare.net, Crypto
