@@ -27,12 +27,12 @@ host-suffix, bnappzh.co, Crypto
 host-suffix, amplitude.com, Crypto
 host-suffix, cloudflare-dns.com, Crypto
 host-suffix, okex.com, Crypto
-host-keyword, okex, Crypto
 
-host-keyword, okx-dns, Crypto
 host-suffix, okx.com, Crypto
 host-suffix, okx.com.edgesuite.net, Crypto
 host-suffix, okx.com.cdn.cloudflare.net, Crypto
+host-keyword, okx, Crypto
+host-keyword, okx-dns, Crypto
 
 # Aicoin 开启PC端授权功能
 host-suffix, apipc.aicoin.net.cn, Crypto
