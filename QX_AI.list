@@ -3,6 +3,9 @@ HOST,cdn.usefathom.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
 
+# groq
+HOST-SUFFIX,groq.com,AI
+
 # Gemini
 HOST,ai.google.dev,AI
 HOST,alkalimakersuite-pa.clients6.google.com,AI
