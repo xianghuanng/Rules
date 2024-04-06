@@ -7,7 +7,9 @@ payload:
   
   # groq
   - DOMAIN-SUFFIX,groq.com
-  
+
+  - DOMAIN-SUFFIX,PERPLEXITY.AI
+
   # gemini
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
