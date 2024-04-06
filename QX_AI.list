@@ -6,6 +6,8 @@ HOST-SUFFIX,claude.ai,AI
 # groq
 HOST-SUFFIX,groq.com,AI
 
+HOST-SUFFIX,PERPLEXITY.AI,AI
+
 # Gemini
 HOST,ai.google.dev,AI
 HOST,alkalimakersuite-pa.clients6.google.com,AI
