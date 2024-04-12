@@ -8,6 +8,10 @@ HOST-SUFFIX,groq.com,AI
 
 HOST-SUFFIX,PERPLEXITY.AI,AI
 
+# poe
+HOST-SUFFIX,poe.com,AI
+HOST-SUFFIX, quora.com, AI
+
 # Gemini
 HOST,ai.google.dev,AI
 HOST,alkalimakersuite-pa.clients6.google.com,AI
@@ -44,7 +48,6 @@ HOST-SUFFIX,launchdarkly.com,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,observeit.net,AI
-HOST-SUFFIX,poe.com,AI
 HOST-SUFFIX,segment.io,AI
 HOST-SUFFIX,sentry.io,AI
 HOST-SUFFIX,stripe.com,AI
