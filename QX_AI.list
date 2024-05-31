@@ -9,8 +9,8 @@ HOST-SUFFIX,groq.com,AI
 HOST-SUFFIX,PERPLEXITY.AI,AI
 
 # poe
-HOST-SUFFIX,poe.com,AI
-HOST-SUFFIX, quora.com, AI
+#HOST-SUFFIX,poe.com,AI
+#HOST-SUFFIX, quora.com, AI
 
 # Gemini
 HOST,ai.google.dev,AI
