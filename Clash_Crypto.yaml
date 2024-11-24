@@ -1,37 +1,37 @@
 payload:
   # 非小号
-  - DOMAIN-SUFFIX, fxhapp.com
+  - DOMAIN-SUFFIX,fxhapp.com
 
   # pionex
-  - DOMAIN-SUFFIX, pionex.com
-  - DOMAIN-SUFFIX, mixpanel.com
-  - DOMAIN-SUFFIX, thepinet.com
+  - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,thepinet.com
 
   # ftx
-  - DOMAIN-SUFFIX, ftx.cool
-  - DOMAIN-SUFFIX, ftx.com
+  - DOMAIN-SUFFIX,ftx.cool
+  - DOMAIN-SUFFIX,ftx.com
 
   # Binance
-  - DOMAIN-SUFFIX, binance.com
-  - DOMAIN-SUFFIX, bnbstatic.com
-  - DOMAIN-SUFFIX, bntrace.com
-  - DOMAIN-SUFFIX, hanqiweb.co
-  - DOMAIN-SUFFIX, bnappzh.com
-  - DOMAIN-KEYWORD, binance
-  - DOMAIN-SUFFIX, nftstatic.com
-  - DOMAIN-SUFFIX, siftscience.com
-  - DOMAIN-SUFFIX, bnappzh.co
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,hanqiweb.co
+  - DOMAIN-SUFFIX,bnappzh.com
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-SUFFIX,nftstatic.com
+  - DOMAIN-SUFFIX,siftscience.com
+  - DOMAIN-SUFFIX,bnappzh.co
 
   # OKEX
-  - DOMAIN-SUFFIX, amplitude.com
-  - DOMAIN-SUFFIX, cloudflare-dns.com
-  - DOMAIN-SUFFIX, okex.com
-  - DOMAIN-KEYWORD, okex
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-KEYWORD,okex
 
-  - DOMAIN-SUFFIX, okx.com
-  - DOMAIN-SUFFIX, okx.com.edgesuite.net
-  - DOMAIN-SUFFIX, okx.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx.com.edgesuite.net
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 
   # Aicoin 开启PC端授权功能
-  - DOMAIN-SUFFIX, apipc.aicoin.net.cn
-  - DOMAIN-SUFFIX, aicoin.com
+  - DOMAIN-SUFFIX,apipc.aicoin.net.cn
+  - DOMAIN-SUFFIX,aicoin.com
