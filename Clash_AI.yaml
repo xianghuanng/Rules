@@ -4,6 +4,7 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
   
   # groq
   - DOMAIN-SUFFIX,groq.com
@@ -24,6 +25,7 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,labs.google
 
   # OpenAI
   - DOMAIN,browser-intake-datadoghq.com
