@@ -10,6 +10,9 @@ payload:
   - DOMAIN-SUFFIX,groq.com
 
   - DOMAIN-SUFFIX,PERPLEXITY.AI
+  
+  # cursor
+  - DOMAIN-SUFFIX,cursor.sh
 
   # gemini
   - DOMAIN,ai.google.dev
