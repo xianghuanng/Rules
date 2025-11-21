@@ -29,6 +29,7 @@ payload:
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-SUFFIX,labs.google
+  - DOMAIN-SUFFIX,antigravity.google
 
   # OpenAI
   - DOMAIN,browser-intake-datadoghq.com
